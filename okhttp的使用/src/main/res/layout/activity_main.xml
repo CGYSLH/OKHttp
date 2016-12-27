@@ -19,4 +19,17 @@
         android:id="@+id/post"
         android:onClick="click"
         android:text="点击实现post请求" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/upload_file"
+        android:onClick="click"
+        android:text="上传文件" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/but_file_download"
+        android:onClick="click"
+        android:text="下载文件" />
+
 </LinearLayout>

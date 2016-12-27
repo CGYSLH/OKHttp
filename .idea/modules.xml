@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OKHttpuse.iml" filepath="$PROJECT_DIR$/OKHttpuse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp的使用/okhttp的使用.iml" filepath="$PROJECT_DIR$/okhttp的使用/okhttp的使用.iml" />
+    </modules>
+  </component>
+</project>
